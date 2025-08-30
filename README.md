@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0283-move-zeroes) |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
