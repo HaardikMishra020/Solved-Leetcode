@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0125-valid-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
