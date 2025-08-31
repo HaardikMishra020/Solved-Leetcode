@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0283-move-zeroes) |
+| [0874-backspace-string-compare](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0874-backspace-string-compare) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0498-diagonal-traverse) |
+| [0874-backspace-string-compare](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0874-backspace-string-compare) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0125-valid-palindrome) |
+| [0874-backspace-string-compare](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0874-backspace-string-compare) |
 ## Greedy
 |  |
 | ------- |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0874-backspace-string-compare](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0874-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
