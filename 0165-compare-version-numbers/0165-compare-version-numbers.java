@@ -10,8 +10,6 @@ class Solution {
         //     else tokens1[tokens1.length+x]="0";
         //     x--;
         // }
-        System.out.println(Integer.parseInt("05"));
-        System.out.println(Integer.parseInt("1"));
         int ans=0;
         int i=0;
         while(i<tokens1.length&&i<tokens2.length){
