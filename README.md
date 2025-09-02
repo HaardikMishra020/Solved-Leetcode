@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0088-merge-sorted-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0217-contains-duplicate) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0498-diagonal-traverse) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Database
