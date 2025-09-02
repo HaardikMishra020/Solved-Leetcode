@@ -1,10 +1,10 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int x=0;
-        for(int i=0;i<nums.length;i++){
-            x=x^nums[i];
+        int xor=0;
+        int l=nums.length;
+        for(int i=0;i<l;i++){
+            xor=xor^nums[i];
         }
-        return x;
-        
+        return xor;
     }
 }
