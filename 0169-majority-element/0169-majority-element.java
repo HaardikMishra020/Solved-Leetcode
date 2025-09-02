@@ -1,20 +1,16 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        int curel=nums[0];
-        int c=1;
+        int maxFreqEle=nums[0];
+        int maxFreq=1;
         for(int i=1;i<nums.length;i++){
-            if(nums[i]==curel){
-                c++;
-            }
+            if(maxFreq==0) maxFreqEle=nums[i];
+            if(nums[i]==maxFreqEle) maxFreq++;
             else{
-                if(c>1) c--;
-                else {
-                    curel=nums[i];
-                    c=1;
-                }
+                maxFreq--;
             }
         }
-        return curel;
+
+        return maxFreqEle;
         
     }
 }
