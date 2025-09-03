@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0075-sort-colors) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/0498-diagonal-traverse) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/HaardikMishra020/Solved-Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
